@@ -44,7 +44,7 @@ class CommonFunction {
             color: themeColor.computeLuminance() > 0.5
                 ? Colors.black
                 : Colors.white),
-
+// can be used if need to change the text text color in body also but as of now its not necessary as the background color is always white
         // bodyText1: TextStyle(color: Color(color).computeLuminance() > 0.5
         //     ? Colors.black
         //     : Colors.white),

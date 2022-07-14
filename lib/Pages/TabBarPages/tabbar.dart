@@ -22,8 +22,7 @@ class _HomeTabBarState extends State<HomeTabBar> {
         length: 2,
         child: Scaffold(
           appBar: AppBar(
-            title: const Text("Softinfo Systems"),
-
+            title: const Text("Table and Theme"),
             bottom: const TabBar(
               tabs: <Widget>[
                 Tab(
