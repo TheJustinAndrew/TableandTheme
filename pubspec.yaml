@@ -36,6 +36,7 @@ dependencies:
   dio: ^4.0.0
   linked_scroll_controller: ^0.2.0
   flutter_colorpicker: ^1.0.3
+  win32: ^2.7.0
 
 
   # The following adds the Cupertino Icons font to your application.

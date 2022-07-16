@@ -40,7 +40,7 @@ class _TablePageState extends State<TablePage>
   }
 
   retrieveData() {
-    tableBloc.add(MakeTableUninitialized());
+    // tableBloc.add(MakeTableUninitialized());
     tableBloc.add(TableFetch());
   }
 
